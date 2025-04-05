@@ -47,7 +47,7 @@ Endpoint to search for an artist based on name
 
  ```
 curl --location 'http://localhost:8080/spotify/artist/emicida' \
---header 'Authorization: BQCfzxlIra8DQVNYMDx73ipSfniHyrQrDRzky3vWyWqbgVyDaiNU9kOv3bv-ImmX4_iyYoR-agXm4YLh64VbsYI8-Jew-t8VZ_aaMZBBltaCDUFS_9Y'
+--header 'Authorization: '
  ```
 
 --------------------
